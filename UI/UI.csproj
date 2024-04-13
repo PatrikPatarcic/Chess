@@ -1,0 +1,47 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>disable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Assets\handMadeBlackBishop.png" />
+    <None Remove="Assets\handMadeBlackKing.png" />
+    <None Remove="Assets\handMadeBlackKnight.png" />
+    <None Remove="Assets\handMadeBlackPawn.png" />
+    <None Remove="Assets\handMadeBlackQueen.png" />
+    <None Remove="Assets\handMadeWhiteBishop.png" />
+    <None Remove="Assets\handMadeWhiteKing.png" />
+    <None Remove="Assets\handMadeWhiteKnight.png" />
+    <None Remove="Assets\handMadeWhitePawn.png" />
+    <None Remove="Assets\handMadeWhiteQueen.png" />
+    <None Remove="Assets\handMadeWhiteRook.png" />
+    <None Remove="Assets\handMadeWhiteRook2.png" />
+    <None Remove="Assets\perfectUpToScaleHandMadeChessboard.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Logic\Logic.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Assets\handMadeBlackBishop.png" />
+    <Resource Include="Assets\handMadeBlackKing.png" />
+    <Resource Include="Assets\handMadeBlackKnight.png" />
+    <Resource Include="Assets\handMadeBlackPawn.png" />
+    <Resource Include="Assets\handMadeBlackQueen.png" />
+    <Resource Include="Assets\handMadeWhiteBishop.png" />
+    <Resource Include="Assets\handMadeWhiteKing.png" />
+    <Resource Include="Assets\handMadeWhiteKnight.png" />
+    <Resource Include="Assets\handMadeWhitePawn.png" />
+    <Resource Include="Assets\handMadeWhiteQueen.png" />
+    <Resource Include="Assets\handMadeWhiteRook.png" />
+    <Resource Include="Assets\handMadeWhiteRook2.png" />
+    <Resource Include="Assets\perfectUpToScaleHandMadeChessboard.png" />
+  </ItemGroup>
+
+</Project>

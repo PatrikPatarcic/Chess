@@ -1,0 +1,11 @@
+C:\Users\Patrik\Desktop\Logic\bin\Debug\net8.0\Logic.deps.json
+C:\Users\Patrik\Desktop\Logic\bin\Debug\net8.0\Logic.dll
+C:\Users\Patrik\Desktop\Logic\bin\Debug\net8.0\Logic.pdb
+C:\Users\Patrik\Desktop\Logic\obj\Debug\net8.0\Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Patrik\Desktop\Logic\obj\Debug\net8.0\Logic.AssemblyInfoInputs.cache
+C:\Users\Patrik\Desktop\Logic\obj\Debug\net8.0\Logic.AssemblyInfo.cs
+C:\Users\Patrik\Desktop\Logic\obj\Debug\net8.0\Logic.csproj.CoreCompileInputs.cache
+C:\Users\Patrik\Desktop\Logic\obj\Debug\net8.0\Logic.dll
+C:\Users\Patrik\Desktop\Logic\obj\Debug\net8.0\refint\Logic.dll
+C:\Users\Patrik\Desktop\Logic\obj\Debug\net8.0\Logic.pdb
+C:\Users\Patrik\Desktop\Logic\obj\Debug\net8.0\ref\Logic.dll
