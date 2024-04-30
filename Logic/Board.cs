@@ -21,11 +21,23 @@
 
     }
 
+    
+
     public enum PlayerColor
     {
         Black,
         White,
         Menu
+    }
+
+    public enum PieceType
+    {
+        King,
+        Queen,
+        Rook,
+        Bishop,
+        Knight,
+        Pawn
     }
 
     public class WhoPlaysNext
@@ -46,5 +58,8 @@
     public abstract class Piece
     {
         bool hasMoved;
+        Location location;
+        readonly PlayerColor pc;
+        readonly PieceType pt;
     }
 }
